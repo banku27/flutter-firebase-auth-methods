@@ -1,16 +1,8 @@
-# flutter_firebase_methods
+# Flutter Firebase Authentication Tutorial
 
-A new Flutter project.
+Learn about how to setup Firebase for all platforms and Firebase Authentication with Flutter that includes Email/Password Signup & Login,
+FlutterFire CLI & State Management using Provider
 
-## Getting Started
+Channel Link : https://www.youtube.com/@FlutterSync-0703
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/banku27/flutter-firebase-auth-methods/assets/55456058/2429fd5e-a9ef-4a28-a0d9-fa99835c94b7">
